@@ -3,7 +3,7 @@
 </p>
 
 <h1>Configuring A Remote VPN Server with OpenVPN</h1>
-This tutorial outlines the implementation of VPN server using OpenVPN.<br />
+This tutorial outlines the configuration and implementation of VPN server using OpenVPN.<br />
 
 
 <h2>Environments and Technologies Used</h2>
