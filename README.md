@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://img.icons8.com/?size=512&id=38558&format=png"/>
+<img src="https://img.icons8.com/?size=300&id=38558&format=png"/>
 </p>
 
 <h1>Configuring A Remote VPN Server with OpenVPN</h1>
